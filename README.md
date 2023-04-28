@@ -17,6 +17,6 @@
 <p>1) Установить chrome driver</p>
 <p>2) >pip install -r requirements.txt</p>
 <p>3) Указать в dataset.py логин и пароль от Яндекс.ID</p>
-<p>3) >pytest main.py</p>
+<p>4) >pytest main.py</p>
 
 
